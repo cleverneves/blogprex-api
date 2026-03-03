@@ -1,6 +1,20 @@
 # Blogpress API
 
-# Variaveis de ambiente
+API para aplicações de Blog.
+
+## Pré-requisitos:
+- Node.js
+- Docker
+- Docker-compose
+
+## Como utilzar o projeto:
+
+```sh
+# Subindo o ambiente
+docker-compose up -d
+```
+
+## Variaveis de ambiente
 
 ```sh
 DB_PORT=
